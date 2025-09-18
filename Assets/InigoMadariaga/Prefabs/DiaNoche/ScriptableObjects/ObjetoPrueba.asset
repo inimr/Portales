@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4538735f1ba7d24c8a803be181d6164, type: 3}
+  m_Name: ObjetoPrueba
+  m_EditorClassIdentifier: 
+  dayObject: {fileID: 4623766422039955770, guid: ff968e976ec549449a0fd05ffe205753,
+    type: 3}
+  nightObject: {fileID: 5206352649593823418, guid: c9d0325c53e25dd4dbc654c0eda48909,
+    type: 3}
+  nombre: Prueba
+  isItDay: 1

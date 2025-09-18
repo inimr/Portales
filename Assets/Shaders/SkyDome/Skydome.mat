@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skydome
+  m_Shader: {fileID: -6465566751694194690, guid: 6148b50a1eb4e90429b6af1aa2fbe8f9,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fcd7175ac20a485197f751139b63cdd2_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 01dbeafdb750b8047aa41499689d10f0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _Altura: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _CloudHeight: 1.32
+    - _CloudScale1: 18
+    - _CloudScale1_1: 0
+    - _CloudScale2: 18.3
+    - _CloudsPower: 4.75
+    - _CloudsWorldPos: 7.4
+    - _Contrast: 4.73
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailNoiseContrast: 4.92
+    - _DetailNoiseInfluence: -28.4
+    - _DetailNoiseTIling: 7.59
+    - _DetailNormalMapScale: 1
+    - _DetailScale: 8.41
+    - _DetailVelocity: 0.01
+    - _DstBlend: 0
+    - _Edge1: 1.24
+    - _Edge1_1: -3
+    - _Edge2: 0.25
+    - _EnvironmentReflections: 1
+    - _Float: 0.415
+    - _Float_1: 0.245
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _HorizonBlend: 10
+    - _Metallic: 0
+    - _NadirBlend: 0.59
+    - _OcclusionStrength: 1
+    - _Offset: 0
+    - _OuterMask: 3.16
+    - _Parallax: 0.005
+    - _Poder: 0.5
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RangoPuestaSol: 0.793
+    - _RangoPuestaSol2: 1.12
+    - _ReceiveShadows: 1
+    - _Scale: 1.08
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StarHeight: 652.03
+    - _StarIntensity: 2
+    - _StarPower: 40.5
+    - _Surface: 0
+    - _Tama_oLuna: 0.1
+    - _Tama_oLuna2: 0.038
+    - _Tama_oSol: 0.01
+    - _Thickness: 6.29
+    - _VelocidadNubes: 0.61
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - _ZenithBlend: 0.17
+    - _smoothEdge: 0
+    - _smoothEdgeDia: 0
+    - _smoothEdgeNoche: 0.85
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _CloudsHardness: {r: 0.05, g: -2.41, b: 0.18, a: 1.93}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorCielo: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorDia: {r: 0.44750586, g: 0.7149542, b: 0.81960785, a: 1}
+    - _ColorHorizonte: {r: 1, g: 0.6666667, b: 0, a: 1}
+    - _ColorLuna: {r: 0.556592, g: 0.6013741, b: 0.809, a: 1}
+    - _ColorNoche: {r: 0.0822558, g: 0.14927907, b: 0.262, a: 1}
+    - _ColorNubes: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorNubesNoche: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorSol: {r: 5.5908794, g: 3.6459336, b: 2.8960755, a: 0}
+    - _ColorSuelo: {r: 0.38039216, g: 0.5647059, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainLightDirection: {r: 0, g: -0.7489559, b: 0.66261995, a: 0}
+    - _OffsetImagen: {r: 7.58, g: 1.5, b: 0, a: 0}
+    - _OffsetMascara: {r: 0.12, g: 0.005, b: 0, a: 0}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _TilingImagen: {r: 3, g: 4, b: 0, a: 0}
+    - _Vector3: {r: 0.06, g: 0.015, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &3785650020627850781
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

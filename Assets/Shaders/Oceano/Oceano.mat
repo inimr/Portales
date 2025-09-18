@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7404670274485925158
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Oceano
+  m_Shader: {fileID: 4800000, guid: 96c9424c8d57f624f918d2ebf0f6b9af, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _SPECULAR_SETUP
+  - _SURFACE_TYPE_TRANSPARENT
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RelfectionProbe:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_67bf776c53f44e60af31323753eccb64_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3156d22ac661ec54d91642c83ad18dcb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 0
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 2
+    - _Depth: 58.44
+    - _DepthFade: 0
+    - _DepthFalloff: 0.64
+    - _Depth_2: 45.7
+    - _DstBlend: 10
+    - _Float: 4.62
+    - _FoamAmount: 8.14
+    - _FoamCutOff: 0
+    - _FoamCutoff: 1.46
+    - _FoamDepth: 6.61
+    - _FoamGradientNoise: 0.2
+    - _FoamScale: 76.58
+    - _FoamSpeed: 0.31
+    - _FoamTiling: 1
+    - _FoamWidth: -5.34
+    - _FuerzaDisplacement: 0
+    - _FuerzaRefraccion: 0.34
+    - _Gloss: 2.52
+    - _Metal: 0.654
+    - _Metallic: 1
+    - _NoiseNormalStrength: 0.1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 2.46
+    - _SpecularIntensity: 0.11
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _TextureBlend: 1
+    - _TilingAgua: 1.14
+    - _Transparencia: 0
+    - _TransparenciaAdd: 0
+    - _TransparenciaMultiply: 1
+    - _VelocidadAgua: 0.02
+    - _WaterShadow: 0
+    - _WaveScale: 15
+    - _WaveSpeed: 0.1
+    - _WaveStrength: 0.01
+    - _WorkflowMode: 0
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 1
+    - _specular: 0.125
+    - _waterDepth: 31.71
+    - _waterDepthClose: 1.56
+    m_Colors:
+    - _AguaFondo: {r: 0.13206783, g: 0.39582953, b: 0.548, a: 1}
+    - _AguaInterior: {r: 0, g: 0.54765934, b: 0.85800004, a: 0.39607844}
+    - _AguaSuperficie: {r: 0.7505785, g: 0.8792841, b: 0.9528302, a: 0.50980395}
+    - _BottomColor: {r: 0.13607994, g: 0.24696004, b: 0.504, a: 0.78039217}
+    - _DeepWater: {r: 0, g: 0.26666668, b: 0.23921567, a: 1}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 0.4392157}
+    - _FoamSpeed: {r: 0.63, g: 0.29, b: 0, a: 0}
+    - _FoamTiling: {r: -4.73, g: 1.47, b: 0, a: 0}
+    - _ShallowWater: {r: 0, g: 1, b: 0.909804, a: 1}
+    - _SurfaceColor: {r: 0.21565002, g: 0.4345429, b: 0.45400003, a: 0.3137255}
+  m_BuildTextureStacks: []

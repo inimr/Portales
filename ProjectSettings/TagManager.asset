@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - BlueGem
+  - OrangeGem
+  - screen
+  - draggable
+  - Gembag
+  - HexagonTile
+  - PinkGem
+  - PurpleGem
+  - Esfera
+  - Desactivador
+  - Negativo
+  - Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlacedGem
+  - Water
+  - UI
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Terrain
+  - Stencil1
+  - Stencil2
+  - TransparentFX2
+  - BolaDia
+  - BolaNoche
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
