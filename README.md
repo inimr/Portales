@@ -35,7 +35,7 @@ En nuestro caso, diseñamos un nivel ambientado en una **isla con ruinas de una 
 - Iker Sánchez - Modelado 3D, texturizado, AudioMixer y detalles de UI 
 - Joel y Gaizka - Modelado 3D, diseño de los edificios (Joel), búsqueda de audio
 - Profesor: Mecánica del portal, cursor y coger objetos.
-- 
+
 ---
 
 ## 📌 Notas
